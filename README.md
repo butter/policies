@@ -25,3 +25,5 @@ All policies are licensed under [CC BY-SA 4.0](http://creativecommons.org/licens
 ### Policy Index
 
 Each policy is included as its own markdown file in case you want to cherry-pick specific policies. If you currently have no policies in place, we encourage you to consider utilizing all compliance policies.
+
+* [Roles Policy](src/roles_policy.md)
